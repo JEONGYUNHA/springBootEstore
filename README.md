@@ -4,7 +4,8 @@ _Spring Boot를 활용한 쇼핑몰 웹 페이지 구현_
 
 
 
-Spring MVC 패턴을 이용하여 REST API를 구현하였습니다. 쇼핑몰 화면은 프론트엔드 프레임워크인 Bootstrap을 활용하여 간단하게 UI를 구현하였습니다.
+Spring MVC 패턴을 이용하여 REST API를 구현하였습니다. 
+쇼핑몰 화면은 프론트엔드 프레임워크인 Bootstrap을 활용하여 간단하게 UI를 구현하였습니다.
 
 
 
